@@ -1,0 +1,4 @@
+interface:
+  display_name: "ETF Backtest"
+  short_description: "ETF-only time-series and cross-sectional backtests with panda_data and local parquet."
+  default_prompt: "Use $skill-backtest-etf to generate and run ETF-only strategy backtests from panda_data and local parquet."

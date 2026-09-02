@@ -1,0 +1,12 @@
+.env
+.env.local
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+*.log
+logs/
+*.ipynb_checkpoints/
+outputs/
+reports/

@@ -1,0 +1,2 @@
+# Install the authorized panda_data==0.1.0 SDK separately; it is not redistributed here.
+python-dotenv
